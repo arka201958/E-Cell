@@ -57,7 +57,7 @@ height: auto;
 
 }
 .arka{
-    background-image: url("/images/Orb.txt");
+    background-image: url("images/Orb.txt");
     background-size: 1000px 800px;
     background-repeat: no-repeat;
     background-position:center;
